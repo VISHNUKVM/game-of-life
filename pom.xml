@@ -503,11 +503,11 @@
 <url>http://localhost:8081/nexus/content/repositories/myRepo123/</url>
 </repository>
 
-<snapshotrepository>
+<snapshotRepository>
 <id>snapshots</id>
 <name>Snapshots</name>
 <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
-</snapshotrepository>
+</snapshotRepository>
 
 </distributionManagement>
 </project>
